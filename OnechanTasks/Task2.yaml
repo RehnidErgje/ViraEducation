@@ -1,0 +1,5 @@
+- Change cats format to json file and add info for each cat as parameters
+  - color
+  - behaivor
+  - description 
+  
