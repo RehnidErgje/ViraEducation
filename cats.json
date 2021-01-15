@@ -1,0 +1,33 @@
+{
+    "cats": [
+        {
+            "name": "Aria",
+            "color": {
+                "type": "multicolor",
+                "colors": [
+                    "brown",
+                    "grey",
+                    "black"
+                ]
+            },
+            "age": 6
+        },
+        {
+            "name": "Phoebe",
+            "color": {
+                "type": "stripes",
+                "colors": [
+                    "red",
+                    "white",
+                    "brown"
+                ]
+            },
+            "age": 3
+        },
+        {
+            "name": "Dexter",
+            "color": "red",
+            "age": 1
+        }
+    ]
+}
